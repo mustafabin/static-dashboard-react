@@ -8,8 +8,8 @@ classmates and they all say "It's fine. I like it!" But you want more insight.
 So you decide to look into some analytical tools... but wow! They are expensive!
 You decide to make your own.
 
-You visualize a dashboard with components for reviews, average rating,
-sentiment analysis and website visitors
+You visualize a dashboard with components for reviews, average rating, sentiment
+analysis and website visitors
 
 ![Dashboard Wireframe](https://i.imgur.com/5mCo2tV.png)
 
@@ -61,8 +61,8 @@ https://medium.muz.li/30-handpicked-excellent-dashboards-347e2407a057
 
 ## Plagiarism
 
-Take a moment to refamiliarize yourself with the [Plagiarism
-policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
+Take a moment to refamiliarize yourself with the
+[Plagiarism policy](https://git.generalassemb.ly/DC-WDI/Administrative/blob/master/plagiarism.md).
 Plagiarized work will not be accepted.
 
 ## License
