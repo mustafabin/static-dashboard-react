@@ -1,0 +1,63 @@
+.main {
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.stats {
+  font-size: 0.4rem;
+  background-color: rgb(243, 240, 240);
+  height: 150px;
+  width: 120px;
+  margin: 15px;
+}
+
+.sideAnchors {
+  padding: 10px;
+}
+.side {
+  background-color: rgb(243, 240, 240);
+
+  height: 600px;
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+.GraphContainer {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(243, 240, 240);
+  width: 380px;
+  height: 380px;
+  margin: 15px;
+}
+
+.graph {
+  position: absolute;
+  justify-self: center;
+  align-self: flex-end;
+  width: 380px;
+  height: 200px;
+  background-color: rgb(192, 185, 185);
+  margin-bottom: 30px;
+}
+.statText {
+  text-align: center;
+  padding: 5px;
+}
+.anyalyisNum {
+  text-align: center;
+  font-size: 0.7rem;
+}
+.statContainer {
+  display: flex;
+}
+.vistorText {
+  padding: 0px;
+  font-size: 0.8rem;
+  text-align: left;
+  align-self: flex-start;
+  height: 100px;
+  width: 500px;
+}
